@@ -1,4 +1,4 @@
-1.0.1
+1.0.2
 
 Added Gang affiliation
 Added User ability to change colors
